@@ -15,7 +15,7 @@ class MotesplatsenApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title:
-          'Dejting för singlar på Mötesplatsen.se - Sveriges bästa dejtingsajt',
+          'Dejting för singlar på Mötesplatsen.se',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
